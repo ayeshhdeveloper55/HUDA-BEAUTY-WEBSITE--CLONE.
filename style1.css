@@ -1,0 +1,232 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+/* SHIPPING PART */
+
+.Shipping{
+    background-color: rgba(244, 215, 179, 0.608);
+    
+
+}
+
+.Shipping p{
+     font-size: 15px;
+     font-weight: 600;
+     font-family: serif;
+     text-align: center;
+    padding-top: 10px;
+   
+
+}
+/* NAVBAR PART */
+.nvb-1{
+    background-color:  #ED3D87;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+ 
+}
+.spa1{
+    font-size: 50px;
+    color: white;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-weight: 400;
+    font-style: normal;  ;
+}
+.spa2{
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  color: white;
+  font-size: 30px; 
+}
+.nvb-2{
+    color: white;
+    font-weight: 700;
+    padding-top: 25px;
+}
+.ico{
+    color: white;  
+    padding-left: 10px;
+    font-size: 25px;
+}
+.nvb-4{
+    padding-top: 20px;
+    
+}
+.is{
+    font-size: 20px;
+}
+@media only screen and (max-width:1900px) and (min-width:786px){
+    .icos{
+        display: none;
+    }
+    
+}
+@media only screen and (max-width:767px){
+    .itm7{
+        display: none;
+    }
+
+}
+@media only screen and (max-width:786px){
+.nvb-2{
+    display: none;
+}
+}
+@media only screen and (max-width:540px){
+    .nvb-4{
+        display: none;
+    }
+    .itm6{
+        display: none;
+    }
+   
+    }
+    @media only screen and (max-width:457px){
+        .itm5{
+            display: none;
+        }
+    
+    }
+    /* BANNER */
+.banner{
+    width: 100%;
+
+}
+    
+    
+    
+    /* ITEMS PARTS */
+    .items{
+        background-color: white;
+        padding: 15px;
+        word-spacing: 10px;
+    }
+    .itm2:hover{
+        background-color: black;
+        color: #ED3D87;
+    }
+    .itm3:hover{
+        background-color: black;
+        color: #ED3D87;
+    }
+    .itm4:hover{
+        background-color: black;
+        color: #ED3D87;
+    }
+    .itm5:hover{
+        background-color: black;
+        color: #ED3D87;
+    }
+    .itm6:hover{
+        background-color: black;
+        color: #ED3D87;
+    }
+    .itm7:hover{
+        background-color: black;
+        color: #ED3D87;
+    }
+    .itm1{
+       justify-items: center;
+    }
+    .itm2{
+        border-radius: 20px;
+        border: 2px solid  #ED3D87;
+        color:  #ED3D87;
+    }
+    .itm3{
+        border-radius: 20px;
+        border: 2px solid  #ED3D87;
+        color:  #ED3D87;
+    }
+    .itm3{
+        border-radius: 20px;
+        border: 2px solid  #ED3D87;
+        color:  #ED3D87;
+    }
+    .itm4{
+        border-radius: 20px;
+        border: 2px solid  #ED3D87;
+        color:  #ED3D87;
+    }
+    .itm5{
+        border-radius: 20px;
+        border: 2px solid  #ED3D87;
+        color:  #ED3D87;
+    }
+    .itm6{
+        border-radius: 20px;
+        border: 2px solid  #ED3D87;
+        color:  #ED3D87;
+    }
+    .itm7{
+        border-radius: 20px;
+        border: 2px solid  #ED3D87;
+        color:  #ED3D87;
+    }
+    /* Shops PArt */
+    .shop1{
+        background-color: white;
+    }
+    .shop2{
+        font-weight: 700;
+    }
+    .shp{
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        
+    }
+    .shop4{
+        font-weight: 700;
+
+
+    }
+    /* cosmetic part o1 */
+    .arcor{
+        background-color: rgba(244, 215, 179, 0.608);
+        padding: 20px;
+    }
+    .itm8{
+        width: 200px;
+        border: 2px solid #ED3D87;
+        color: black;
+        font-size: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 600;
+    }
+    .itm8:hover{
+        background-color: black;
+        color: white;
+    }
+    .sec1{
+        border: 1px solid #ED3D87;
+
+
+    }
+    .sec1:hover{
+        box-shadow: 3px 6px 7px gray;
+        background-color: #ED3D87;
+        color: white;
+    }
+    .sec{
+        margin-top: 30px;
+    }
+    .info{
+        text-align: center;
+        margin-top: 70px;
+        background-color: rgba(244, 215, 179, 0.608);
+        padding: 70px;
+        
+    }
+    .info1{
+        font-weight: 700;
+    }
+    .em{
+        text-align: center;
+    }
+    .em h2{
+        font-family: 'Times New Roman', Times, serif;
+    }
